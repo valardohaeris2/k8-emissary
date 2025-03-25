@@ -8,7 +8,7 @@ Emissary-ingress
 [![Core Infrastructure Initiative: Best Practices][badge-cii-img]][badge-cii-link]
 [![Artifact HUB][badge-artifacthub-img]][badge-artifacthub-link]
 
-[badge-version-img]: https://img.shields.io/docker/v/emissaryingress/emissary?sort=semver
+[badge-version-img]: https://img.shields.io/docker/v/emissaryingress/emissary?sort=semver 
 [badge-version-link]: https://github.com/emissary-ingress/emissary/releases
 [badge-docker-img]: https://img.shields.io/docker/pulls/emissaryingress/emissary
 [badge-docker-link]: https://hub.docker.com/r/emissaryingress/emissary
