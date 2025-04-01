@@ -5,7 +5,7 @@ deploymentTool: kat
 
 service:
   type: ClusterIP
-  portsRaw: "- ←«extra_ports»"
+  portsRaw: "- ←«extra_ports»" 
   selector: # affects not just Service.spec.selector but also Pod.metadata.labels
     service: «self.path.k8s»
 
